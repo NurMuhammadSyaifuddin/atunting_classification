@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605076418571",
+    "firebase_url": "https://stunting-classification-default-rtdb.firebaseio.com",
+    "project_id": "stunting-classification",
+    "storage_bucket": "stunting-classification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605076418571:android:fea51d886c40c7f289570e",
+        "android_client_info": {
+          "package_name": "com.example.stunting_classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605076418571-tp3o2o8mdkkiqlkiev0v8lb17o6k2la2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stunting_classification",
+            "certificate_hash": "5d8461ea82ace0a395c0d6c5ce6941a7d36826f2"
+          }
+        },
+        {
+          "client_id": "605076418571-3ftc0rifd713clthep9l5vddnjjbf99l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjFxmdwfYIiqrrjs4go98g7-6l1-seYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605076418571-1oup4o6c31l1hujucc0r6e9oosq3m083.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
